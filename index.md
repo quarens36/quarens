@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Epistemic Doodies
 ---
 
-Testing.
+These are my assorted thoughts and notes, some half-baked.
