@@ -1,5 +1,5 @@
 ---
-title: Epistemic Doodies
+title: quarens
 ---
 
-These are my assorted thoughts and notes, some half-baked.
+Faith seeking understanding ("Fides quaerens intellectum") -- or, really, a spot where I collect my (sometimes half-baked) thoughts and notes for later reference.
