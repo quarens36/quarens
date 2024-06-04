@@ -3,7 +3,7 @@ title: "Pastor Aeternus and the 'Dignity of a Dogma'"
 date: 2024-06-03
 ---
 
-_Much of this post is based on ideas first expressed by Scott Smith <a href="https://reducedculpability.blog/2023/11/30/a-misidentified-dogma-misadventures-in-peer-review/" target="_blank">here</a> and <a href="https://reducedculpability.blog/2021/10/30/friends-dont-let-friends-accidentally-dogmatize-the-extreme-opinion-of-albert-pighius/" target="_blank">here</a>. This post differs from those slightly, in that (1) it is focused on addressing a [specific YouTube video](https://www.youtube.com/watch?v=XgbQmItXsi8), (2) it provides a bit more Latin translation (and a small correction to one piece of the Latin in Scott's posts), and (3) it is arranged in an order that better fits my purposes._
+_Much of this post is based on ideas first expressed by Scott Smith <a href="https://reducedculpability.blog/2023/11/30/a-misidentified-dogma-misadventures-in-peer-review/" target="_blank">here</a> and <a href="https://reducedculpability.blog/2021/10/30/friends-dont-let-friends-accidentally-dogmatize-the-extreme-opinion-of-albert-pighius/" target="_blank">here</a>. This post differs from those slightly, in that (1) it is focused on addressing a [specific YouTube video](https://www.youtube.com/watch?v=XgbQmItXsi8), (2) it provides a bit more Latin translation (and a small correction to one piece of the Latin in Scott's posts -- Smith has "in nullo *esse* licet" where the Latin is actually "in nullo *casu* licet"), and (3) it is arranged in an order that better fits my purposes._
 
 ## Thesis
 
